@@ -1,6 +1,9 @@
 # PROYECTO -1
 
-Cree  una vista de formulario  con todos los requirimientos   que me pidieron  debe tener 3 campos : *Nombre *Correo electronico  *Numero random.
+Cree  una vista de formulario  con todos los requirimientos   que me pidieron  debe tener 3 campos : 
+- Nombre 
+- Correo electronico  
+- Numero random.
 
 El primer ejercicio es crear la vista de un formulario con requerimientos establecidos.
 
